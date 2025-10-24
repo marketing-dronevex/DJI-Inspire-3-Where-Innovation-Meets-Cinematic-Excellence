@@ -50,5 +50,3 @@ The DJI Inspire 3 is the pinnacle of professional aerial filmmaking, combining i
 
 ***
 
-## Tags:
-#DJIInspire3 #CinematicDrone #8KVideo #FilmMakerTools #ProfessionalDrone #AerialFilming #DroneVex #NextGenAerial
